@@ -1,0 +1,24 @@
+Account Login
+An email with a confirmation link has been sent your email address.
+New Customer
+Register Account
+By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.
+Continue
+Returning Customer
+I am a returning customer
+E-Mail Address
+Password
+Forgotten Password
+Login
+Register
+Forgotten Password
+My Account
+Address Book
+Wish List
+Order History
+Downloads
+Recurring payments
+Reward Points
+Returns
+Transactions
+Newsletter
